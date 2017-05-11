@@ -15,11 +15,11 @@ public class TestBowling {
 	
 	@Test
 	public void testIsStrike() {
-		Frame partija = new Frame(10.0);
+		Frame partija = new Frame(10, 0);
 		
-		int rez = partija.score();
+		int prvoBacanje = partija.getFirstThrow();
 		
-		assertEquals(9, rez);
+		assertEquals(10, prvoBacanje);
 	}
 
 }

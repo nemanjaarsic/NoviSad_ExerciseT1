@@ -49,3 +49,6 @@ RefactoringAction 1494526438568 TestBowling.java RENAME test()=>void testIs() ME
 RefactoringAction 1494526440092 TestBowling.java RENAME testIs()=>void testIsStri() METHOD
 RefactoringAction 1494526446114 TestBowling.java RENAME testIsStri()=>void testIsStrike() METHOD
 EditAction 1494526453823 TestBowling.java 391 2 6 2
+CompilationAction 1494526456648 TestBowling.java
+CompilationAction 1494526495771 TestBowling.java
+EditAction 1494526499774 TestBowling.java 417 2 6 2
