@@ -5,8 +5,12 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void testDoesReturnScore() {
+		Frame partija = new Frame(2,7);
+		
+		int rez = partija.score();
+		
+		assert("Rezultat frejma", 9, rez);
 	}
 
 }
