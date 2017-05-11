@@ -14,3 +14,5 @@ RefactoringAction 1494525736999 TestBowling.java RENAME testDoes()=>void testDoe
 RefactoringAction 1494525739015 TestBowling.java RENAME testDoesR()=>void testDoesRetur() METHOD
 RefactoringAction 1494525751539 TestBowling.java RENAME testDoesRetur()=>void testDoesReturnScore() METHOD
 EditAction 1494525928152 TestBowling.java 259 1 0 0
+CompilationAction 1494525930942 TestBowling.java
+EditAction 1494525952165 TestBowling.java 259 1 0 0
