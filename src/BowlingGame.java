@@ -21,16 +21,14 @@ public class BowlingGame {
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
 		if(bonus.isStrike() == true)
-			bonusPoints = bonus.score() + 
+			bonusPoints = firstThrow + secondThrow + frames.
 	}
 	
 	// Returns the game score
 	public int score(){
-		//to be implemented: should return game score 
-		return 0;
-	}
-	
-	public int getFrames() {
-		return frames;
+		int rez = 0;
+		for(int i = 0; i < 10; i++)
+			rez = rez + frames.get(i).score();
+		return rez;
 	}
 }

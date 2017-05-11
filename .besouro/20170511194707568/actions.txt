@@ -110,3 +110,21 @@ RefactoringAction 1494528521764 BowlingGame.java ADD int getFirstThrow() METHOD
 RefactoringAction 1494528528362 BowlingGame.java RENAME getFirstThrow()=>int getf() METHOD
 RefactoringAction 1494528530413 BowlingGame.java RENAME getf()=>int getFrames() METHOD
 EditAction 1494528537380 BowlingGame.java 834 5 3 0
+CompilationAction 1494528540202 BowlingGame.java
+CompilationAction 1494528540203 BowlingGame.java
+CompilationAction 1494528540204 TestBowling.java
+CompilationAction 1494528551857 BowlingGame.java
+CompilationAction 1494528552170 BowlingGame.java
+CompilationAction 1494528552171 BowlingGame.java
+CompilationAction 1494528552172 TestBowling.java
+RefactoringAction 1494528571761 BowlingGame.java REMOVE getFrames() METHOD
+CompilationAction 1494528932517 BowlingGame.java
+CompilationAction 1494528932523 BowlingGame.java
+CompilationAction 1494528932530 BowlingGame.java
+CompilationAction 1494528932532 TestBowling.java
+CompilationAction 1494529089199 BowlingGame.java
+CompilationAction 1494529089475 BowlingGame.java
+CompilationAction 1494529089476 BowlingGame.java
+RefactoringAction 1494529131984 TestBowling.java RENAME testAddFrame()=>void testU() METHOD
+RefactoringAction 1494529136519 TestBowling.java RENAME testU()=>void testUkupanRezultat() METHOD
+EditAction 1494529195515 TestBowling.java 1258 5 17 5
