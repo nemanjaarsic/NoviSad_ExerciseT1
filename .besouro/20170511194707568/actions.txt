@@ -128,3 +128,11 @@ CompilationAction 1494529089476 BowlingGame.java
 RefactoringAction 1494529131984 TestBowling.java RENAME testAddFrame()=>void testU() METHOD
 RefactoringAction 1494529136519 TestBowling.java RENAME testU()=>void testUkupanRezultat() METHOD
 EditAction 1494529195515 TestBowling.java 1258 5 17 5
+CompilationAction 1494529201247 BowlingGame.java
+CompilationAction 1494529201491 BowlingGame.java
+UnitTestCaseAction 1494529204566 TestBowling.java FAIL
+UnitTestSessionAction 1494529204568 TestBowling.java FAIL
+CompilationAction 1494529222849 BowlingGame.java
+UnitTestCaseAction 1494529226982 TestBowling.java FAIL
+UnitTestSessionAction 1494529226984 TestBowling.java FAIL
+EditAction 1494529302509 BowlingGame.java 850 4 4 0
