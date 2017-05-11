@@ -80,3 +80,4 @@ RefactoringAction 1494527217622 TestBowling.java ADD void testIsSpareB()/2 METHO
 RefactoringAction 1494527224148 TestBowling.java RENAME testIsSpareB()/2=>void testAdd() METHOD
 RefactoringAction 1494527227176 TestBowling.java RENAME testAdd()=>void testAddFrame() METHOD
 EditAction 1494527274059 TestBowling.java 937 5 16 5
+EditAction 1494527292733 TestBowling.java 968 5 17 5

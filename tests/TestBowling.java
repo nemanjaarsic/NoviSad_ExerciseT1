@@ -43,6 +43,8 @@ public class TestBowling {
 	@Test
 	public void testAddFrame() {
 		BowlingGame game = new BowlingGame();
+		
+		game.addFrame(partija);
 		Frame partija = new Frame(7, 3);
 		
 		boolean spare = partija.isSpare();
