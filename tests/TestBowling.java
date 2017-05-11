@@ -30,5 +30,14 @@ public class TestBowling {
 		
 		assertEquals(true, prvoBacanje);
 	}
+	
+	@Test
+	public void testIsSpareB() {
+		Frame partija = new Frame(7, 3);
+		
+		boolean prvoBacanje = partija.isStrike();
+		
+		assertEquals(true, prvoBacanje);
+	}
 
 }
