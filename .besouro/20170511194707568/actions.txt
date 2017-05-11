@@ -1,0 +1,6 @@
+FileOpenedAction 1494524828130 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494524947676 BowlingException.java 58 0 0 0
+FileOpenedAction 1494524951844 Frame.java 671 6 7 0
+FileOpenedAction 1494525174748 TestBowling.java 165 1 1 0
+RefactoringAction 1494525495555 Frame.java ADD int score FIELD
+EditAction 1494525538856 Frame.java 711 6 8 0
