@@ -4,3 +4,4 @@ FileOpenedAction 1494524951844 Frame.java 671 6 7 0
 FileOpenedAction 1494525174748 TestBowling.java 165 1 1 0
 RefactoringAction 1494525495555 Frame.java ADD int score FIELD
 EditAction 1494525538856 Frame.java 711 6 8 0
+EditAction 1494525548784 Frame.java 715 6 8 0
