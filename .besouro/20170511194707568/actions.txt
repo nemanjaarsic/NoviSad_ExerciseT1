@@ -86,3 +86,16 @@ RefactoringAction 1494527486349 BowlingException.java ADD BowlingException() MET
 RefactoringAction 1494527494909 BowlingException.java RENAME BowlingException()=>BowlingException(String) METHOD
 EditAction 1494527504806 BowlingException.java 127 1 1 0
 EditAction 1494527543966 Frame.java 957 6 11 0
+CompilationAction 1494527546632 Frame.java
+CompilationAction 1494527601924 Frame.java
+CompilationAction 1494527602226 Frame.java
+CompilationAction 1494527609169 Frame.java
+RefactoringAction 1494527825500 BowlingGame.java ADD int bonus/2 FIELD
+RefactoringAction 1494527834539 BowlingGame.java RENAME bonus/2=>int bonusP FIELD
+RefactoringAction 1494527836074 BowlingGame.java RENAME bonusP=>int bonusPoints FIELD
+RefactoringAction 1494527936539 TestBowling.java REMOVE testAddFrame() METHOD
+RefactoringAction 1494528053720 TestBowling.java REMOVE testIsSpareB() METHOD
+RefactoringAction 1494528054746 TestBowling.java ADD void testIsSpareB() METHOD
+RefactoringAction 1494528064299 TestBowling.java ADD void testIsSpareB()/2 METHOD
+RefactoringAction 1494528070833 TestBowling.java RENAME testIsSpareB()/2=>void testAddFrame() METHOD
+EditAction 1494528229588 TestBowling.java 1274 5 24 5
