@@ -62,3 +62,6 @@ EditAction 1494526593573 Frame.java 803 6 9 0
 UnitTestCaseAction 1494526610337 TestBowling.java OK
 UnitTestSessionAction 1494526610338 TestBowling.java OK
 EditAction 1494526687579 Frame.java 836 6 10 0
+RefactoringAction 1494526697618 TestBowling.java ADD void testIsStrike()/2 METHOD
+RefactoringAction 1494526703643 TestBowling.java RENAME testIsStrike()/2=>void testIsStrikeB() METHOD
+EditAction 1494526772193 TestBowling.java 590 3 9 3

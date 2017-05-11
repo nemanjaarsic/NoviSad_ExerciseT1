@@ -21,5 +21,14 @@ public class TestBowling {
 		
 		assertEquals(10, prvoBacanje);
 	}
+	
+	@Test
+	public void testIsStrikeB() {
+		Frame partija = new Frame(10, 0);
+		
+		boolean prvoBacanje = partija.isStrike();
+		
+		assertEquals(true, prvoBacanje);
+	}
 
 }
