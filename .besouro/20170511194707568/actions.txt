@@ -53,3 +53,7 @@ CompilationAction 1494526456648 TestBowling.java
 CompilationAction 1494526495771 TestBowling.java
 EditAction 1494526499774 TestBowling.java 417 2 6 2
 EditAction 1494526521640 Frame.java 732 6 9 0
+RefactoringAction 1494526550973 Frame.java ADD boolean strike FIELD
+RefactoringAction 1494526567095 Frame.java ADD boolean spat FIELD
+RefactoringAction 1494526568128 Frame.java RENAME spat=>boolean spare FIELD
+EditAction 1494526587321 Frame.java 801 6 7 0

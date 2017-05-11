@@ -2,6 +2,8 @@ public class Frame {
 	private int firstThrow;
 	private int secondThrow;
 	private int score;
+	private boolean strike = false;
+	private boolean spare = false;
 	
 	public Frame(int firstThrow, int secondThrow){
 		this.firstThrow = firstThrow;
@@ -25,8 +27,8 @@ public class Frame {
 	//returns whether the frame is a strike or not
 	public boolean isStrike(){
 		if(firstThrow == 10)
-			return true;
-		return true;
+			strike true;
+		return strike;
 	}
 	
 	//return whether a frame is a spare or not
