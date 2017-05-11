@@ -10,7 +10,7 @@ public class TestBowling {
 		
 		int rez = partija.score();
 		
-		assert("Rezultat frejma", 9, rez);
+		assert(9, rez);
 	}
 
 }

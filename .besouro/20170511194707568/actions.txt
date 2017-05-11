@@ -16,3 +16,5 @@ RefactoringAction 1494525751539 TestBowling.java RENAME testDoesRetur()=>void te
 EditAction 1494525928152 TestBowling.java 259 1 0 0
 CompilationAction 1494525930942 TestBowling.java
 EditAction 1494525952165 TestBowling.java 259 1 0 0
+CompilationAction 1494525954804 TestBowling.java
+EditAction 1494526019493 TestBowling.java 240 1 0 0
