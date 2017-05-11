@@ -59,4 +59,15 @@ public class TestBowling {
 		assertEquals(14,rezultat);
 	}
 	
+	@Test
+	public void testBonusRezultat() {
+		BowlingGame game = new BowlingGame();
+		game.addFrame(new Frame(1, 4));
+		game.addFrame(new Frame(4, 5));
+		
+		
+		int bonusRezultat = game.setBonus();
+		assertEquals(14,bonusRezultat);
+	}
+	
 }
