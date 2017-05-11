@@ -99,3 +99,14 @@ RefactoringAction 1494528054746 TestBowling.java ADD void testIsSpareB() METHOD
 RefactoringAction 1494528064299 TestBowling.java ADD void testIsSpareB()/2 METHOD
 RefactoringAction 1494528070833 TestBowling.java RENAME testIsSpareB()/2=>void testAddFrame() METHOD
 EditAction 1494528229588 TestBowling.java 1274 5 24 5
+CompilationAction 1494528232412 TestBowling.java
+CompilationAction 1494528240796 TestBowling.java
+CompilationAction 1494528241851 TestBowling.java
+CompilationAction 1494528332439 TestBowling.java
+CompilationAction 1494528332721 TestBowling.java
+CompilationAction 1494528457421 TestBowling.java
+CompilationAction 1494528457719 TestBowling.java
+RefactoringAction 1494528521764 BowlingGame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1494528528362 BowlingGame.java RENAME getFirstThrow()=>int getf() METHOD
+RefactoringAction 1494528530413 BowlingGame.java RENAME getf()=>int getFrames() METHOD
+EditAction 1494528537380 BowlingGame.java 834 5 3 0
