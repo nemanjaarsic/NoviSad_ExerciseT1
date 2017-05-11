@@ -9,8 +9,9 @@ public class TestBowling {
 		Frame partija = new Frame(2,7);
 		
 		int rez = partija.score();
+		//String rez = Integer.toString(partija.score());
 		
-		assert(9, rez);
+		assertEquals(9, rez);
 	}
 
 }
