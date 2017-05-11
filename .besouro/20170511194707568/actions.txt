@@ -85,3 +85,4 @@ CompilationAction 1494527295489 TestBowling.java
 RefactoringAction 1494527486349 BowlingException.java ADD BowlingException() METHOD
 RefactoringAction 1494527494909 BowlingException.java RENAME BowlingException()=>BowlingException(String) METHOD
 EditAction 1494527504806 BowlingException.java 127 1 1 0
+EditAction 1494527543966 Frame.java 957 6 11 0

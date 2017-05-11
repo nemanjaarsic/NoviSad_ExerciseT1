@@ -6,6 +6,8 @@ public class Frame {
 	private boolean spare = false;
 	
 	public Frame(int firstThrow, int secondThrow){
+		if(firstThrow > 10 || firstThrow < 0)
+			throw new BowlingException("Uneta nedozvoljena vrednost za prvo bacanje!");
 		this.firstThrow = firstThrow;
 		this.secondThrow = secondThrow;
 	}
