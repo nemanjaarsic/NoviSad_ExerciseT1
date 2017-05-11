@@ -57,3 +57,5 @@ RefactoringAction 1494526550973 Frame.java ADD boolean strike FIELD
 RefactoringAction 1494526567095 Frame.java ADD boolean spat FIELD
 RefactoringAction 1494526568128 Frame.java RENAME spat=>boolean spare FIELD
 EditAction 1494526587321 Frame.java 801 6 7 0
+CompilationAction 1494526590131 Frame.java
+EditAction 1494526593573 Frame.java 803 6 9 0
