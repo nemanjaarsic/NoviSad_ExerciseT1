@@ -59,6 +59,7 @@ public class TestBowling {
 		assertEquals(14,rezultat);
 	}
 	
+	/*
 	@Test
 	public void testBonusRezultat() {
 		BowlingGame game = new BowlingGame();
@@ -68,6 +69,6 @@ public class TestBowling {
 		
 		int bonusRezultat = game.setBonus();
 		assertEquals(14,bonusRezultat);
-	}
+	}*/
 	
 }

@@ -145,3 +145,7 @@ RefactoringAction 1494529477427 TestBowling.java RENAME testUkupanRezultat()/2=>
 RefactoringAction 1494529478456 TestBowling.java RENAME testBonuse()=>void testBonus() METHOD
 RefactoringAction 1494529480993 TestBowling.java RENAME testBonus()=>void testBonusRezultat() METHOD
 EditAction 1494529524001 TestBowling.java 1503 6 22 6
+CompilationAction 1494529526726 TestBowling.java
+RefactoringAction 1494529536301 TestBowling.java REMOVE testBonusRezultat() METHOD
+CompilationAction 1494529645822 TestBowling.java
+FileOpenedAction 1494529844235 BowlingException.java 127 1 1 0
