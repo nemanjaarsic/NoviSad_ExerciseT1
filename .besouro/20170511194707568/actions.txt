@@ -76,3 +76,7 @@ UnitTestSessionAction 1494526837291 TestBowling.java OK
 FileOpenedAction 1494526974604 BowlingException.java 58 0 0 0
 EditAction 1494527174862 BowlingGame.java 716 4 2 0
 EditAction 1494527204595 BowlingGame.java 707 4 2 0
+RefactoringAction 1494527217622 TestBowling.java ADD void testIsSpareB()/2 METHOD
+RefactoringAction 1494527224148 TestBowling.java RENAME testIsSpareB()/2=>void testAdd() METHOD
+RefactoringAction 1494527227176 TestBowling.java RENAME testAdd()=>void testAddFrame() METHOD
+EditAction 1494527274059 TestBowling.java 937 5 16 5

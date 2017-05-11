@@ -39,5 +39,15 @@ public class TestBowling {
 		
 		assertEquals(true, spare);
 	}
+	
+	@Test
+	public void testAddFrame() {
+		BowlingGame game = new BowlingGame();
+		Frame partija = new Frame(7, 3);
+		
+		boolean spare = partija.isSpare();
+		
+		assertEquals(true, spare);
+	}
 
 }
