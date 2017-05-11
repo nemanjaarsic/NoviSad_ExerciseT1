@@ -26,16 +26,16 @@ public class TestBowling {
 	public void testIsStrikeB() {
 		Frame partija = new Frame(10, 0);
 		
-		boolean prvoBacanje = partija.isStrike();
+		boolean strike = partija.isStrike();
 		
-		assertEquals(true, prvoBacanje);
+		assertEquals(true, strike);
 	}
 	
 	@Test
 	public void testIsSpareB() {
 		Frame partija = new Frame(7, 3);
 		
-		boolean prvoBacanje = partija.isStrike();
+		boolean spare = partija.isSpare();
 		
 		assertEquals(true, prvoBacanje);
 	}
