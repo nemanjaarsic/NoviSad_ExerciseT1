@@ -59,3 +59,6 @@ RefactoringAction 1494526568128 Frame.java RENAME spat=>boolean spare FIELD
 EditAction 1494526587321 Frame.java 801 6 7 0
 CompilationAction 1494526590131 Frame.java
 EditAction 1494526593573 Frame.java 803 6 9 0
+UnitTestCaseAction 1494526610337 TestBowling.java OK
+UnitTestSessionAction 1494526610338 TestBowling.java OK
+EditAction 1494526687579 Frame.java 836 6 10 0
