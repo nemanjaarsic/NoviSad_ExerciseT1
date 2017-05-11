@@ -37,7 +37,7 @@ public class TestBowling {
 		
 		boolean spare = partija.isSpare();
 		
-		assertEquals(true, prvoBacanje);
+		assertEquals(true, spare);
 	}
 
 }

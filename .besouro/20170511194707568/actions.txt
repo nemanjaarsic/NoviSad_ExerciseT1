@@ -69,3 +69,9 @@ RefactoringAction 1494526779840 TestBowling.java ADD void testIsStrikeB()/2 METH
 RefactoringAction 1494526785366 TestBowling.java RENAME testIsStrikeB()/2=>void testIsSpareB() METHOD
 EditAction 1494526793265 TestBowling.java 761 4 12 4
 EditAction 1494526828212 TestBowling.java 744 4 12 4
+CompilationAction 1494526830917 TestBowling.java
+CompilationAction 1494526833853 TestBowling.java
+UnitTestCaseAction 1494526837289 TestBowling.java OK
+UnitTestSessionAction 1494526837291 TestBowling.java OK
+FileOpenedAction 1494526974604 BowlingException.java 58 0 0 0
+EditAction 1494527174862 BowlingGame.java 716 4 2 0
