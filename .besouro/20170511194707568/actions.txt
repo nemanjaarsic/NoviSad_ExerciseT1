@@ -81,3 +81,7 @@ RefactoringAction 1494527224148 TestBowling.java RENAME testIsSpareB()/2=>void t
 RefactoringAction 1494527227176 TestBowling.java RENAME testAdd()=>void testAddFrame() METHOD
 EditAction 1494527274059 TestBowling.java 937 5 16 5
 EditAction 1494527292733 TestBowling.java 968 5 17 5
+CompilationAction 1494527295489 TestBowling.java
+RefactoringAction 1494527486349 BowlingException.java ADD BowlingException() METHOD
+RefactoringAction 1494527494909 BowlingException.java RENAME BowlingException()=>BowlingException(String) METHOD
+EditAction 1494527504806 BowlingException.java 127 1 1 0
