@@ -9,7 +9,15 @@ public class TestBowling {
 		Frame partija = new Frame(2,7);
 		
 		int rez = partija.score();
-		//String rez = Integer.toString(partija.score());
+		
+		assertEquals(9, rez);
+	}
+	
+	@Test
+	public void testIsStrike() {
+		Frame partija = new Frame(10.0);
+		
+		int rez = partija.score();
 		
 		assertEquals(9, rez);
 	}
